@@ -16,7 +16,7 @@ tracks:
       :{release_inc} --os-name rhel
     devel_branch: ros2
     last_version: 1.0.0
-    name: upstream
+    name: aws-robomaker-small-warehouse-world
     patches: null
     release_inc: '1'
     release_repo_url: null
