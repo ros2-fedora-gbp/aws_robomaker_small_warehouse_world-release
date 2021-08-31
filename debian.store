@@ -1,1 +1,1 @@
-{"trim": "", "base": "68dcf6b", "trimbase": "", "parent": "debian/foxy/aws_robomaker_small_warehouse_world", "previous": "da37040"}
+{"base": "05574e0", "parent": "debian/foxy/aws_robomaker_small_warehouse_world", "previous": "ed77a06", "trim": "", "trimbase": ""}
