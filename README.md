@@ -1,3 +1,26 @@
+## aws-robomaker-small-warehouse-world (foxy) - 1.0.4-1
+
+The packages in the `aws-robomaker-small-warehouse-world` repository were released into the `foxy` distro by running `/usr/bin/bloom-release aws-robomaker-small-warehouse-world --track foxy --rosdistro foxy` on `Fri, 22 Oct 2021 16:35:42 -0000`
+
+The `aws_robomaker_small_warehouse_world` package was released.
+
+Version of package(s) in repository `aws-robomaker-small-warehouse-world`:
+
+- upstream repository: https://github.com/aws-robotics/aws-robomaker-small-warehouse-world.git
+- release repository: https://github.com/aws-gbp/aws_robomaker_small_warehouse_world-release.git
+- rosdistro version: `1.0.1-2`
+- old version: `1.0.1-2`
+- new version: `1.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## aws-robomaker-small-warehouse-world (foxy) - 1.0.1-2
 
 The packages in the `aws-robomaker-small-warehouse-world` repository were released into the `foxy` distro by running `/usr/bin/bloom-release aws-robomaker-small-warehouse-world --track foxy --rosdistro foxy` on `Thu, 14 Oct 2021 21:27:44 -0000`
