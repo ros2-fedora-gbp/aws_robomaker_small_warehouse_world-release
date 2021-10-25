@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>aws_robomaker_small_warehouse_world</name>
-  <version>1.0.1</version>
+  <version>1.0.4</version>
   <description>
     AWS RoboMaker package for a warehouse world to use in manufacturing and logistics robot applications.
   </description>
@@ -11,7 +11,7 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   
-  <exec_depend>gazebo_ros</exec_depend>
+  <depend>gazebo_ros</depend>
   <exec_depend>gazebo</exec_depend>
   <exec_depend>gazebo_plugins</exec_depend>
 
