@@ -1,0 +1,12 @@
+Source: ros-galactic-aws-robomaker-small-warehouse-world
+Section: misc
+Priority: optional
+Maintainer: AWS RoboMaker <ros-contributions@amazon.com>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-gazebo-ros, ros-galactic-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-aws-robomaker-small-warehouse-world
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, gazebo11, ros-galactic-gazebo-plugins, ros-galactic-gazebo-ros, ros-galactic-ros-workspace
+Description: AWS RoboMaker package for a warehouse world to use in manufacturing and logistics robot applications.
