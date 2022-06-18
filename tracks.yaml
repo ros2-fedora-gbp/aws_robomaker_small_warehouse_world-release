@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:ros2-gbp/aws_robomaker_small_warehouse_world-release
 tracks:
   foxy:
     actions:
