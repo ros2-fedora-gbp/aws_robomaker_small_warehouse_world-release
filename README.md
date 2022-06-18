@@ -1,3 +1,26 @@
+## aws-robomaker-small-warehouse-world (humble) - 1.0.5-1
+
+The packages in the `aws-robomaker-small-warehouse-world` repository were released into the `humble` distro by running `/home/steven/.local/bin/bloom-release -r humble aws-robomaker-small-warehouse-world --override-release-repository-url https://github.com/ros2-gbp/aws_robomaker_small_warehouse_world-release.git --override-release-repository-push-url git@github.com:ros2-gbp/aws_robomaker_small_warehouse_world-release` on `Sat, 18 Jun 2022 04:14:07 -0000`
+
+The `aws_robomaker_small_warehouse_world` package was released.
+
+Version of package(s) in repository `aws-robomaker-small-warehouse-world`:
+
+- upstream repository: https://github.com/aws-robotics/aws-robomaker-small-warehouse-world.git
+- release repository: https://github.com/aws-gbp/aws_robomaker_small_warehouse_world-release.git
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## aws-robomaker-small-warehouse-world (rolling) - 1.0.5-2
 
 The packages in the `aws-robomaker-small-warehouse-world` repository were released into the `rolling` distro by running `/home/steven/.local/bin/bloom-release -r rolling aws-robomaker-small-warehouse-world --override-release-repository-url git@github.com:ros2-gbp/aws_robomaker_small_warehouse_world-release` on `Sat, 18 Jun 2022 04:08:50 -0000`
